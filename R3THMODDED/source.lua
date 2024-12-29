@@ -1,11 +1,11 @@
 --[[
-    R3TH PRIV TOTAL ROBLOX DRAMA SOURCE
-    
-    You cant use any of the below unless given permission.
-    .gg/z2E423Zv38
+    R3TH PRIV MODDED TOTAL ROBLOX DRAMA SOURCE
+
+    Use it for whatever, I don't care, just don't make it paid.
 
     Credits:
         pethicial
+        saveinstance/kyan
 ]]
 
 --------------------------------------------------------------------------------------R3THPRIV----------------------------------------------------------------------------------------
