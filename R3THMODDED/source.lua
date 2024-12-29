@@ -12,7 +12,7 @@
 repeat wait() until game:IsLoaded()
 
 print("[ R3TH PRIV ]: R3TH PRIV TOTAL ROBLOX DRAMA LOADING...")
-print("[ R3TH PRIV ]: " ..map .." detected")
+print("[ R3TH PRIV ]: " .. map  .." detected")
 
 --------------------------------------------------------------------------------------THEME----------------------------------------------------------------------------------------
 privateProperties = {
@@ -30,7 +30,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/funnyhahazz/robloxscripts/refs/heads/main/R3THMODDED/R3THUI.lua"))()
 local R3TH = library.new("R3TH PRIV Modded", 5013109572)
-
+local map = "Camp"
 local Universal = R3TH:addPage("Universal", 5012540623)
 local Player = Universal:addSection("Player")
 local ESP = Universal:addSection("ESP")
